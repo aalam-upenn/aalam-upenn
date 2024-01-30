@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asif!</h1>
 <h3 align="center">I am a coding and analytics enthusiast with a background in finance.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aalam-upenn](https://github.com/aalam-upenn)
+- 👨‍💻 Some of my fun projects are available at [https://github.com/aalam-upenn](https://github.com/aalam-upenn)
 
-- 📫 How to reach me **alam.asifm@gmail.com**
+- 📫 You can reach me at **alam.asifm@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/asifmalam](https://www.linkedin.com/in/asifmalam)
 
