@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/asifmalam](https://www.linkedin.com/in/asifmalam)
 
-- ⚡ Fun fact **I became a CFA Charter holder, got my MBA and worked in Private Equity and the Health care industry for 6 years before I enrolled at UPenn for a Master's in Computer Science Degree to fulfill my passion for learning about new technologies, coding, and AI!**
+- ⚡ Fun fact **I became a CFA Charter holder, got my MBA and worked in Private Equity and the Health care industry for 6 years before I enrolled at UPenn for a Master's in Computer Science Degree to fulfill my passion for coding, artificial intelligence, and all things tech!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
